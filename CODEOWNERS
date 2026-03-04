@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @EQZD
+/src/backend/database.py      @EQZD
+/src/backend/routers/auth.py  @EQZD
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @EQZD
